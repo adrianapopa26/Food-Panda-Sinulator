@@ -1,0 +1,822 @@
+New report created!
+Time interval of the orders:
+Order ID: 1
+Client ID: 6
+Date: 2021-05-21
+Time: 02:37:46.832018600
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 166
+
+Order ID: 2
+Client ID: 2
+Date: 2021-05-21
+Time: 03:48:49.101748300
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 174
+
+Order ID: 3
+Client ID: 6
+Date: 2021-05-21
+Time: 04:11:29.542084300
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 174
+
+Order ID: 4
+Client ID: 6
+Date: 2021-05-21
+Time: 04:11:31.558875400
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Barbecued Shrimp, Rating: 3.75, Calories: 23, Protein: 4, Fat: 0, Sodium: 205, Price: 71
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 167
+
+Order ID: 5
+Client ID: 0
+Date: 2021-05-21
+Time: 04:12:50.494552500
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cauliflower-Leek Purée, Rating: 3.125, Calories: 23, Protein: 2, Fat: 0, Sodium: 149, Price: 13
+Price: 110
+
+Order ID: 6
+Client ID: 0
+Date: 2021-05-21
+Time: 04:12:52.400141900
+Ordered Items:
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Price: 188
+
+Products ordered more than 2 times are:
+
+
+Clients that ordered more than 2 times and price was greater than 200 are:
+
+
+The products ordered on 21-05-2021:
+Ethiopian Spice Tea 4 times
+Smoked Caviar and Hummus on Pita Toasts 4 times
+Red and Green Tomato Salsa 2 times
+Quick & Spicy Asian Pickles 4 times
+The Original Three-Ingredient Rub 4 times
+Barbecued Shrimp 2 times
+Cauliflower-Leek Purée 2 times
+Spicy Pickled Shallots 2 times
+Cilantro-Tomato Salsa 2 times
+Shrimp Sates with Spiced Pistachio Chutney 2 times
+New report created!
+Time interval of the orders:
+Order ID: 1
+Client ID: 6
+Date: 2021-05-21
+Time: 02:37:46.832018600
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 166
+
+Order ID: 2
+Client ID: 2
+Date: 2021-05-21
+Time: 03:48:49.101748300
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 174
+
+Order ID: 3
+Client ID: 6
+Date: 2021-05-21
+Time: 04:11:29.542084300
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 174
+
+Order ID: 4
+Client ID: 6
+Date: 2021-05-21
+Time: 04:11:31.558875400
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Barbecued Shrimp, Rating: 3.75, Calories: 23, Protein: 4, Fat: 0, Sodium: 205, Price: 71
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 167
+
+Order ID: 5
+Client ID: 0
+Date: 2021-05-21
+Time: 04:12:50.494552500
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cauliflower-Leek Purée, Rating: 3.125, Calories: 23, Protein: 2, Fat: 0, Sodium: 149, Price: 13
+Price: 110
+
+Order ID: 6
+Client ID: 0
+Date: 2021-05-21
+Time: 04:12:52.400141900
+Ordered Items:
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Price: 188
+
+Order ID: 7
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:23.561938800
+Ordered Items:
+Title: Fresh Corn Tortillas, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 61, Price: 79
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Price: 205
+
+Order ID: 8
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:27.245661200
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Price: 254
+
+Order ID: 9
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:29.787636700
+Ordered Items:
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Barbecued Shrimp, Rating: 3.75, Calories: 23, Protein: 4, Fat: 0, Sodium: 205, Price: 71
+Price: 277
+
+Order ID: 10
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:32.546453500
+Ordered Items:
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Arugula Salad with Heirloom Tomatoes and Red Onion, Rating: 2.5, Calories: 24, Protein: 1, Fat: 0, Sodium: 12, Price: 21
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 248
+
+Order ID: 11
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:35.138323800
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Coriander-Herb Spice Rub, Rating: 3.75, Calories: 24, Protein: 1, Fat: 1, Sodium: 1911, Price: 51
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Price: 392
+
+Order ID: 12
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:38.235584800
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cauliflower-Leek Purée, Rating: 3.125, Calories: 23, Protein: 2, Fat: 0, Sodium: 149, Price: 13
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 528
+
+Order ID: 13
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:40.787617100
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Price: 449
+
+Order ID: 14
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:43.657614
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Arugula Salad with Heirloom Tomatoes and Red Onion, Rating: 2.5, Calories: 24, Protein: 1, Fat: 0, Sodium: 12, Price: 21
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Barbecued Shrimp, Rating: 3.75, Calories: 23, Protein: 4, Fat: 0, Sodium: 205, Price: 71
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Price: 415
+
+Products ordered more than 2 times are:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+
+
+Clients that ordered more than 2 times and price was greater than 200 are:
+8
+
+
+The products ordered on 21-05-2021:
+Ethiopian Spice Tea 12 times
+Smoked Caviar and Hummus on Pita Toasts 9 times
+Red and Green Tomato Salsa 7 times
+Quick & Spicy Asian Pickles 11 times
+The Original Three-Ingredient Rub 8 times
+Barbecued Shrimp 4 times
+Cauliflower-Leek Purée 3 times
+Spicy Pickled Shallots 7 times
+Cilantro-Tomato Salsa 7 times
+Shrimp Sates with Spiced Pistachio Chutney 7 times
+Fresh Corn Tortillas 2 times
+Arugula Salad with Heirloom Tomatoes and Red Onion 3 times
+Coriander-Herb Spice Rub 2 times
+New report created!
+Time interval of the orders:
+Order ID: 1
+Client ID: 6
+Date: 2021-05-21
+Time: 02:37:46.832018600
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 166
+
+Order ID: 2
+Client ID: 2
+Date: 2021-05-21
+Time: 03:48:49.101748300
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 174
+
+Order ID: 3
+Client ID: 6
+Date: 2021-05-21
+Time: 04:11:29.542084300
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 174
+
+Order ID: 4
+Client ID: 6
+Date: 2021-05-21
+Time: 04:11:31.558875400
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Barbecued Shrimp, Rating: 3.75, Calories: 23, Protein: 4, Fat: 0, Sodium: 205, Price: 71
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 167
+
+Order ID: 5
+Client ID: 0
+Date: 2021-05-21
+Time: 04:12:50.494552500
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cauliflower-Leek Purée, Rating: 3.125, Calories: 23, Protein: 2, Fat: 0, Sodium: 149, Price: 13
+Price: 110
+
+Order ID: 6
+Client ID: 0
+Date: 2021-05-21
+Time: 04:12:52.400141900
+Ordered Items:
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Price: 188
+
+Order ID: 7
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:23.561938800
+Ordered Items:
+Title: Fresh Corn Tortillas, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 61, Price: 79
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Price: 205
+
+Order ID: 8
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:27.245661200
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Price: 254
+
+Order ID: 9
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:29.787636700
+Ordered Items:
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Barbecued Shrimp, Rating: 3.75, Calories: 23, Protein: 4, Fat: 0, Sodium: 205, Price: 71
+Price: 277
+
+Order ID: 10
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:32.546453500
+Ordered Items:
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Arugula Salad with Heirloom Tomatoes and Red Onion, Rating: 2.5, Calories: 24, Protein: 1, Fat: 0, Sodium: 12, Price: 21
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 248
+
+Order ID: 11
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:35.138323800
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Coriander-Herb Spice Rub, Rating: 3.75, Calories: 24, Protein: 1, Fat: 1, Sodium: 1911, Price: 51
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Price: 392
+
+Order ID: 12
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:38.235584800
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cauliflower-Leek Purée, Rating: 3.125, Calories: 23, Protein: 2, Fat: 0, Sodium: 149, Price: 13
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 528
+
+Order ID: 13
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:40.787617100
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Price: 449
+
+Order ID: 14
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:43.657614
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Arugula Salad with Heirloom Tomatoes and Red Onion, Rating: 2.5, Calories: 24, Protein: 1, Fat: 0, Sodium: 12, Price: 21
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Barbecued Shrimp, Rating: 3.75, Calories: 23, Protein: 4, Fat: 0, Sodium: 205, Price: 71
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Price: 415
+
+Order ID: 15
+Client ID: 7
+Date: 2021-05-21
+Time: 04:42:58.053758400
+Ordered Items:
+Title: Fresh Corn Tortillas, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 61, Price: 79
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 175
+
+Order ID: 16
+Client ID: 7
+Date: 2021-05-21
+Time: 04:42:59.812881100
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Price: 159
+
+Order ID: 17
+Client ID: 7
+Date: 2021-05-21
+Time: 04:43:01.919577
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 128
+
+Order ID: 18
+Client ID: 7
+Date: 2021-05-21
+Time: 04:43:04.092904900
+Ordered Items:
+Title: Coriander-Herb Spice Rub, Rating: 3.75, Calories: 24, Protein: 1, Fat: 1, Sodium: 1911, Price: 51
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 136
+
+Order ID: 19
+Client ID: 7
+Date: 2021-05-21
+Time: 04:43:09.661506900
+Ordered Items:
+Price: 0
+
+Order ID: 20
+Client ID: 7
+Date: 2021-05-21
+Time: 04:43:32.664817300
+Ordered Items:
+Title: Middle Eastern Lamb-Stuffed Zucchini with Yogurt Sauce, Rating: 3.75, Calories: 54, Protein: 2, Fat: 4, Sodium: 13, Price: 47
+Title: Lamb Spice Rub, Rating: 5.0, Calories: 58, Protein: 2, Fat: 3, Sodium: 2871, Price: 32
+Title: Middle Eastern Sesame Lamb Meatballs with Minted Yogurt Dip, Rating: 4.375, Calories: 82, Protein: 4, Fat: 5, Sodium: 116, Price: 35
+Title: Rhubarb Lambrusco Granita, Rating: 0.0, Calories: 162, Protein: 1, Fat: 0, Sodium: 6, Price: 25
+Title: Central Asian Beef and Lamb Dumplings, Rating: 3.75, Calories: 196, Protein: 10, Fat: 5, Sodium: 331, Price: 82
+Price: 221
+
+Products ordered more than 2 times are:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+
+
+Clients that ordered more than 2 times and price was greater than 200 are:
+8
+
+
+The products ordered on 21-05-2021:
+Ethiopian Spice Tea 15 times
+Smoked Caviar and Hummus on Pita Toasts 9 times
+Red and Green Tomato Salsa 8 times
+Quick & Spicy Asian Pickles 11 times
+The Original Three-Ingredient Rub 11 times
+Barbecued Shrimp 4 times
+Cauliflower-Leek Purée 3 times
+Spicy Pickled Shallots 7 times
+Cilantro-Tomato Salsa 9 times
+Shrimp Sates with Spiced Pistachio Chutney 8 times
+Fresh Corn Tortillas 3 times
+Arugula Salad with Heirloom Tomatoes and Red Onion 3 times
+Coriander-Herb Spice Rub 3 times
+Middle Eastern Lamb-Stuffed Zucchini with Yogurt Sauce 2 times
+Lamb Spice Rub 2 times
+Middle Eastern Sesame Lamb Meatballs with Minted Yogurt Dip 2 times
+Rhubarb Lambrusco Granita 2 times
+Central Asian Beef and Lamb Dumplings 2 times
+New report created!
+Time interval of the orders:
+Order ID: 1
+Client ID: 6
+Date: 2021-05-21
+Time: 02:37:46.832018600
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 166
+
+Order ID: 2
+Client ID: 2
+Date: 2021-05-21
+Time: 03:48:49.101748300
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 174
+
+Order ID: 3
+Client ID: 6
+Date: 2021-05-21
+Time: 04:11:29.542084300
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 174
+
+Order ID: 4
+Client ID: 6
+Date: 2021-05-21
+Time: 04:11:31.558875400
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Barbecued Shrimp, Rating: 3.75, Calories: 23, Protein: 4, Fat: 0, Sodium: 205, Price: 71
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 167
+
+Order ID: 5
+Client ID: 0
+Date: 2021-05-21
+Time: 04:12:50.494552500
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cauliflower-Leek Purée, Rating: 3.125, Calories: 23, Protein: 2, Fat: 0, Sodium: 149, Price: 13
+Price: 110
+
+Order ID: 6
+Client ID: 0
+Date: 2021-05-21
+Time: 04:12:52.400141900
+Ordered Items:
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Price: 188
+
+Order ID: 7
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:23.561938800
+Ordered Items:
+Title: Fresh Corn Tortillas, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 61, Price: 79
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Price: 205
+
+Order ID: 8
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:27.245661200
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Price: 254
+
+Order ID: 9
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:29.787636700
+Ordered Items:
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Barbecued Shrimp, Rating: 3.75, Calories: 23, Protein: 4, Fat: 0, Sodium: 205, Price: 71
+Price: 277
+
+Order ID: 10
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:32.546453500
+Ordered Items:
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Arugula Salad with Heirloom Tomatoes and Red Onion, Rating: 2.5, Calories: 24, Protein: 1, Fat: 0, Sodium: 12, Price: 21
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 248
+
+Order ID: 11
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:35.138323800
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Coriander-Herb Spice Rub, Rating: 3.75, Calories: 24, Protein: 1, Fat: 1, Sodium: 1911, Price: 51
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Price: 392
+
+Order ID: 12
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:38.235584800
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cauliflower-Leek Purée, Rating: 3.125, Calories: 23, Protein: 2, Fat: 0, Sodium: 149, Price: 13
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 528
+
+Order ID: 13
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:40.787617100
+Ordered Items:
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Price: 449
+
+Order ID: 14
+Client ID: 8
+Date: 2021-05-21
+Time: 04:27:43.657614
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Arugula Salad with Heirloom Tomatoes and Red Onion, Rating: 2.5, Calories: 24, Protein: 1, Fat: 0, Sodium: 12, Price: 21
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Barbecued Shrimp, Rating: 3.75, Calories: 23, Protein: 4, Fat: 0, Sodium: 205, Price: 71
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Price: 415
+
+Order ID: 15
+Client ID: 7
+Date: 2021-05-21
+Time: 04:42:58.053758400
+Ordered Items:
+Title: Fresh Corn Tortillas, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 61, Price: 79
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 175
+
+Order ID: 16
+Client ID: 7
+Date: 2021-05-21
+Time: 04:42:59.812881100
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+Price: 159
+
+Order ID: 17
+Client ID: 7
+Date: 2021-05-21
+Time: 04:43:01.919577
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Price: 128
+
+Order ID: 18
+Client ID: 7
+Date: 2021-05-21
+Time: 04:43:04.092904900
+Ordered Items:
+Title: Coriander-Herb Spice Rub, Rating: 3.75, Calories: 24, Protein: 1, Fat: 1, Sodium: 1911, Price: 51
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 136
+
+Order ID: 19
+Client ID: 7
+Date: 2021-05-21
+Time: 04:43:09.661506900
+Ordered Items:
+Price: 0
+
+Order ID: 20
+Client ID: 7
+Date: 2021-05-21
+Time: 04:43:32.664817300
+Ordered Items:
+Title: Middle Eastern Lamb-Stuffed Zucchini with Yogurt Sauce, Rating: 3.75, Calories: 54, Protein: 2, Fat: 4, Sodium: 13, Price: 47
+Title: Lamb Spice Rub, Rating: 5.0, Calories: 58, Protein: 2, Fat: 3, Sodium: 2871, Price: 32
+Title: Middle Eastern Sesame Lamb Meatballs with Minted Yogurt Dip, Rating: 4.375, Calories: 82, Protein: 4, Fat: 5, Sodium: 116, Price: 35
+Title: Rhubarb Lambrusco Granita, Rating: 0.0, Calories: 162, Protein: 1, Fat: 0, Sodium: 6, Price: 25
+Title: Central Asian Beef and Lamb Dumplings, Rating: 3.75, Calories: 196, Protein: 10, Fat: 5, Sodium: 331, Price: 82
+Price: 221
+
+Order ID: 21
+Client ID: 4
+Date: 2021-05-21
+Time: 04:48:01.457967700
+Ordered Items:
+Title: Beer, Rating: 5.0, Calories: 100, Protein: 0, Fat: 70, Sodium: 30, Price: 5
+Title: Mici, Rating: 5.0, Calories: 1234, Protein: 56, Fat: 121, Sodium: 34, Price: 10
+Title: Beer, Rating: 5.0, Calories: 100, Protein: 0, Fat: 70, Sodium: 30, Price: 5
+Price: 20
+
+Order ID: 22
+Client ID: 3
+Date: 2021-05-21
+Time: 08:26:35.926138200
+Ordered Items:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Price: 87
+
+Products ordered more than 2 times are:
+Title: Ethiopian Spice Tea, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 13, Price: 49
+Title: Smoked Caviar and Hummus on Pita Toasts, Rating: 5.0, Calories: 23, Protein: 1, Fat: 2, Sodium: 49, Price: 79
+Title: Red and Green Tomato Salsa, Rating: 3.125, Calories: 23, Protein: 1, Fat: 0, Sodium: 552, Price: 38
+Title: Quick & Spicy Asian Pickles, Rating: 5.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 128, Price: 48
+Title: The Original Three-Ingredient Rub, Rating: 0.0, Calories: 23, Protein: 1, Fat: 1, Sodium: 6, Price: 47
+Title: Spicy Pickled Shallots, Rating: 0.0, Calories: 23, Protein: 1, Fat: 0, Sodium: 162, Price: 78
+Title: Cilantro-Tomato Salsa, Rating: 3.75, Calories: 23, Protein: 1, Fat: 0, Sodium: 7, Price: 32
+Title: Shrimp Sates with Spiced Pistachio Chutney, Rating: 3.75, Calories: 23, Protein: 1, Fat: 2, Sodium: 4, Price: 78
+
+
+Clients that ordered more than 2 times and price was greater than 200 are:
+8
+
+
+The products ordered on 21-05-2021:
+Ethiopian Spice Tea 16 times
+Smoked Caviar and Hummus on Pita Toasts 9 times
+Red and Green Tomato Salsa 9 times
+Quick & Spicy Asian Pickles 11 times
+The Original Three-Ingredient Rub 11 times
+Barbecued Shrimp 4 times
+Cauliflower-Leek Purée 3 times
+Spicy Pickled Shallots 7 times
+Cilantro-Tomato Salsa 9 times
+Shrimp Sates with Spiced Pistachio Chutney 8 times
+Fresh Corn Tortillas 3 times
+Arugula Salad with Heirloom Tomatoes and Red Onion 3 times
+Coriander-Herb Spice Rub 3 times
+Middle Eastern Lamb-Stuffed Zucchini with Yogurt Sauce 2 times
+Lamb Spice Rub 2 times
+Middle Eastern Sesame Lamb Meatballs with Minted Yogurt Dip 2 times
+Rhubarb Lambrusco Granita 2 times
+Central Asian Beef and Lamb Dumplings 2 times
+Beer 3 times
+Mici 2 times
